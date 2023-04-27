@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/okienko/static/css/main.53853403.css",
+    "main.js": "/okienko/static/js/main.515e5b5e.js",
+    "static/media/regulirovka.jpg": "/okienko/static/media/regulirovka.afacd5b0317d4fea92f6.jpg",
+    "static/media/main.jpg": "/okienko/static/media/main.0ccebc8a94c5f6728f82.jpg",
+    "static/media/primeicons.svg": "/okienko/static/media/primeicons.e1441b135b3ca9ad643c.svg",
+    "static/media/obsluga.jpg": "/okienko/static/media/obsluga.0b40bf51e19566e73bf6.jpg",
+    "static/media/primeicons.eot": "/okienko/static/media/primeicons.d44157bdfa026dc877af.eot",
+    "static/media/primeicons.woff": "/okienko/static/media/primeicons.10d3152104f2208ac82a.woff",
+    "static/media/primeicons.ttf": "/okienko/static/media/primeicons.ea5358601d0a3fd6670b.ttf",
+    "static/media/reviews.svg": "/okienko/static/media/reviews.829531cf895f35e08906d736b038c49d.svg",
+    "static/media/primeicons.woff2": "/okienko/static/media/primeicons.78172950b335ccdb94e2.woff2",
+    "static/media/questions.svg": "/okienko/static/media/questions.205c9614cbb04a5258385f2d9ae58dae.svg",
+    "static/media/Slide2.png": "/okienko/static/media/Slide2.4a7172febc5cb3f47460.png",
+    "static/media/Slide4.png": "/okienko/static/media/Slide4.edb3ec9f48c5d62465d2.png",
+    "static/media/Slide1.png": "/okienko/static/media/Slide1.3a2b3f8a816380388664.png",
+    "static/media/logo.png": "/okienko/static/media/logo.11f8ee5bb7d904f3f7eb.png",
+    "static/media/consult.svg": "/okienko/static/media/consult.2ee74a256e392096a659bb9e63258454.svg",
+    "static/media/calculator.svg": "/okienko/static/media/calculator.be6c80abea6cca02fd3eac921f28b02f.svg",
+    "static/media/Slide3.jpg": "/okienko/static/media/Slide3.11b7387f04e8badcbd01.jpg",
+    "static/media/color.png": "/okienko/static/media/color.6441e63a57ccc5105bad.png",
+    "static/media/viber.svg": "/okienko/static/media/viber.7d2a03acff561389956793791bb9b091.svg",
+    "static/media/feedback.svg": "/okienko/static/media/feedback.fb642b2493151d2df9cd.svg",
+    "static/media/slick.svg": "/okienko/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/okienko/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/okienko/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/okienko/static/media/slick.295183786cd8a1389865.woff",
+    "static/media/support_agent.svg": "/okienko/static/media/support_agent.a98c03d2d17914971f0836cabee4946a.svg",
+    "static/media/telegram.svg": "/okienko/static/media/telegram.2101cb3fe69a6ab0f8f26f1f935a21ed.svg",
+    "static/media/iiisometric.svg": "/okienko/static/media/iiisometric.5e93e10f150da10e5da4.svg",
+    "static/media/phone.svg": "/okienko/static/media/phone.fccd3d07aac9bdf436ae1f5874914088.svg",
+    "static/media/phone_white.svg": "/okienko/static/media/phone_white.e725dab4bb2dec040df425d20c96c908.svg",
+    "index.html": "/okienko/index.html",
+    "static/media/cross.svg": "/okienko/static/media/cross.4aa9c0d367a718b38dbc.svg",
+    "main.53853403.css.map": "/okienko/static/css/main.53853403.css.map",
+    "main.515e5b5e.js.map": "/okienko/static/js/main.515e5b5e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.53853403.css",
+    "static/js/main.515e5b5e.js"
+  ]
+}
