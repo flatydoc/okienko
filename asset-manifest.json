@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/okienko/static/css/main.53853403.css",
+    "main.css": "/okienko/static/css/main.158842e4.css",
     "main.js": "/okienko/static/js/main.515e5b5e.js",
     "static/media/regulirovka.jpg": "/okienko/static/media/regulirovka.afacd5b0317d4fea92f6.jpg",
     "static/media/main.jpg": "/okienko/static/media/main.0ccebc8a94c5f6728f82.jpg",
@@ -33,11 +33,11 @@
     "static/media/phone_white.svg": "/okienko/static/media/phone_white.e725dab4bb2dec040df425d20c96c908.svg",
     "index.html": "/okienko/index.html",
     "static/media/cross.svg": "/okienko/static/media/cross.4aa9c0d367a718b38dbc.svg",
-    "main.53853403.css.map": "/okienko/static/css/main.53853403.css.map",
+    "main.158842e4.css.map": "/okienko/static/css/main.158842e4.css.map",
     "main.515e5b5e.js.map": "/okienko/static/js/main.515e5b5e.js.map"
   },
   "entrypoints": [
-    "static/css/main.53853403.css",
+    "static/css/main.158842e4.css",
     "static/js/main.515e5b5e.js"
   ]
 }
