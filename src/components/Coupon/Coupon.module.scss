@@ -1,0 +1,57 @@
+.coupon {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 20px;
+  padding: 20px;
+  border-radius: 20px;
+  border: 2px dotted var(--green);
+
+  min-width: 280px;
+  width: 50%;
+  max-width: 300px;
+  height: 400px;
+  background-color: #fff;
+  backdrop-filter: blur(10px);
+}
+
+.green {
+  color: var(--green);
+  font-size: 1.2em;
+  font-weight: 600;
+}
+
+.formItem {
+  width: 100%;
+  margin-bottom: 15px;
+}
+
+.input {
+  width: 100%;
+}
+
+.title {
+  text-align: center;
+  font-size: 22px;
+  margin-bottom: 30px;
+}
+
+.subtitle {
+  text-align: center;
+  color: var(--blue);
+  font-size: 14px;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+@media (max-width: 400px) {
+  .coupon {
+    min-width: 100%;
+    height: auto;
+  }
+}
