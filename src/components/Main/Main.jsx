@@ -22,6 +22,34 @@ export const Main = () => {
             ></i>
             Wymiana szyby
           </li>
+          <li className={styles.listItem}>
+            <i
+              className="pi pi-check"
+              style={{ fontSize: "1.5rem", color: "var(--green)" }}
+            ></i>
+            Wymiana uszczelki
+          </li>
+          <li className={styles.listItem}>
+            <i
+              className="pi pi-check"
+              style={{ fontSize: "1.5rem", color: "var(--green)" }}
+            ></i>
+            Wymiana zawiasów
+          </li>
+          <li className={styles.listItem}>
+            <i
+              className="pi pi-check"
+              style={{ fontSize: "1.5rem", color: "var(--green)" }}
+            ></i>
+            Wymiana okucia
+          </li>
+          <li className={styles.listItem}>
+            <i
+              className="pi pi-check"
+              style={{ fontSize: "1.5rem", color: "var(--green)" }}
+            ></i>
+            Usunięcie zaparowania okien
+          </li>
         </ul>
       </div>
       <div className={styles.coupon_wrapper}>

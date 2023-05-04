@@ -15,6 +15,10 @@
   font-family: "Figtree", sans-serif;
 }
 
+.p-multiselect .p-multiselect-label.p-placeholder {
+  color: var(--dark);
+}
+
 .slick-dots li button:before {
   font-size: 10px;
 }

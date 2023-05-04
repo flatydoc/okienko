@@ -58,8 +58,6 @@ export const Calculator = ({ calcRef }) => {
     { option: "Naprawa armatury" },
     { option: "Wymiana starych okuć na nowe" },
     { option: "Wymiana klamek okiennych" },
-    { option: "Montaż moskitier" },
-    { option: "Wymiana parapetu" },
   ];
 
   const {
@@ -187,6 +185,7 @@ export const Calculator = ({ calcRef }) => {
                   placeholder="Wybierz usługi"
                   maxSelectedLabels={20}
                   className={styles.multiselect}
+                  style={{ color: "var(--dark)" }}
                 />
               )}
             />
