@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/okienko/static/css/main.158842e4.css",
-    "main.js": "/okienko/static/js/main.515e5b5e.js",
+    "main.css": "/okienko/static/css/main.1a768a78.css",
+    "main.js": "/okienko/static/js/main.84405331.js",
     "static/media/regulirovka.jpg": "/okienko/static/media/regulirovka.afacd5b0317d4fea92f6.jpg",
     "static/media/main.jpg": "/okienko/static/media/main.0ccebc8a94c5f6728f82.jpg",
     "static/media/primeicons.svg": "/okienko/static/media/primeicons.e1441b135b3ca9ad643c.svg",
@@ -9,16 +9,16 @@
     "static/media/primeicons.eot": "/okienko/static/media/primeicons.d44157bdfa026dc877af.eot",
     "static/media/primeicons.woff": "/okienko/static/media/primeicons.10d3152104f2208ac82a.woff",
     "static/media/primeicons.ttf": "/okienko/static/media/primeicons.ea5358601d0a3fd6670b.ttf",
+    "static/media/guarantee.png": "/okienko/static/media/guarantee.f335c902cd69c45c529a.png",
     "static/media/reviews.svg": "/okienko/static/media/reviews.829531cf895f35e08906d736b038c49d.svg",
     "static/media/primeicons.woff2": "/okienko/static/media/primeicons.78172950b335ccdb94e2.woff2",
+    "static/media/anniversary.png": "/okienko/static/media/anniversary.6eb9cf3542db22a8e7b0.png",
+    "static/media/tools.png": "/okienko/static/media/tools.79a973dc31dbdcaa22bc.png",
     "static/media/questions.svg": "/okienko/static/media/questions.205c9614cbb04a5258385f2d9ae58dae.svg",
-    "static/media/Slide2.png": "/okienko/static/media/Slide2.4a7172febc5cb3f47460.png",
-    "static/media/Slide4.png": "/okienko/static/media/Slide4.edb3ec9f48c5d62465d2.png",
-    "static/media/Slide1.png": "/okienko/static/media/Slide1.3a2b3f8a816380388664.png",
     "static/media/logo.png": "/okienko/static/media/logo.11f8ee5bb7d904f3f7eb.png",
+    "static/media/household.png": "/okienko/static/media/household.076ce5a93a88e3b2cd1d.png",
     "static/media/consult.svg": "/okienko/static/media/consult.2ee74a256e392096a659bb9e63258454.svg",
     "static/media/calculator.svg": "/okienko/static/media/calculator.be6c80abea6cca02fd3eac921f28b02f.svg",
-    "static/media/Slide3.jpg": "/okienko/static/media/Slide3.11b7387f04e8badcbd01.jpg",
     "static/media/color.png": "/okienko/static/media/color.6441e63a57ccc5105bad.png",
     "static/media/viber.svg": "/okienko/static/media/viber.7d2a03acff561389956793791bb9b091.svg",
     "static/media/feedback.svg": "/okienko/static/media/feedback.fb642b2493151d2df9cd.svg",
@@ -33,11 +33,11 @@
     "static/media/phone_white.svg": "/okienko/static/media/phone_white.e725dab4bb2dec040df425d20c96c908.svg",
     "index.html": "/okienko/index.html",
     "static/media/cross.svg": "/okienko/static/media/cross.4aa9c0d367a718b38dbc.svg",
-    "main.158842e4.css.map": "/okienko/static/css/main.158842e4.css.map",
-    "main.515e5b5e.js.map": "/okienko/static/js/main.515e5b5e.js.map"
+    "main.1a768a78.css.map": "/okienko/static/css/main.1a768a78.css.map",
+    "main.84405331.js.map": "/okienko/static/js/main.84405331.js.map"
   },
   "entrypoints": [
-    "static/css/main.158842e4.css",
-    "static/js/main.515e5b5e.js"
+    "static/css/main.1a768a78.css",
+    "static/js/main.84405331.js"
   ]
 }
